@@ -1,3 +1,3 @@
 # ymath
-纯c的矩阵运算库
-方便起见函数声明实现写在同一文件，要在多个源文件调用请先自行拆分成.h和.c
+# a light function library for matrix caculating
+# anyone is welcome to copy it or contribute to it
